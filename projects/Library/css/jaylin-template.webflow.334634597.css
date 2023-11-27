@@ -2635,12 +2635,13 @@ figure {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  flex-direction: column;
   padding-top: 64px;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  background-color: #f4f4f4;
+  
 }
 
 .project-page-info-area {
